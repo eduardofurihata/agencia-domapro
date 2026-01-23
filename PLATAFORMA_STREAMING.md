@@ -3,13 +3,30 @@
 ## 1. Visão Geral do Projeto
 
 ### Conceito
-Plataforma de streaming por assinatura (modelo Netflix) onde especialistas publicam conteúdo diário, com mensalidade acessível e compromisso anual. A plataforma serve como produto âncora da esteira de vendas, com possibilidade de upsell de outros produtos.
+Plataforma de streaming por assinatura (modelo “membership”) onde especialistas publicam conteúdo frequente (preferencialmente diário), combinando **aulas gravadas** com **encontros ao vivo** recorrentes. A mensalidade é acessível, com incentivo forte ao plano anual. A plataforma serve como produto âncora da esteira de vendas, com possibilidade de upsell de outros produtos.
+
+### Proposta de Valor (one-liner)
+**“Aprenda um método aplicável, com orientação contínua, para sair do zero e gerar resultado real no seu contexto — com conteúdo curto e direto + encontros ao vivo para destravar dúvidas.”**
+
+### Princípios do Produto (inspirado em benchmark, sem copiar)
+- **Transformação explícita**: promessa clara do “antes → depois” (o que o aluno passa a conseguir fazer).
+- **Acessível a iniciantes**: trilha “do zero”, linguagem simples e quick wins na primeira semana.
+- **Ao vivo + gravado**: rotina de lives (mentoria/Q&A) e biblioteca de replays organizada.
+- **Oferta simples**: poucos planos, benefícios fáceis de entender, CTA e onboarding sem fricção.
+- **Ritual e consistência**: calendário previsível (semanal/mensal) para criar hábito e reduzir churn.
+
+### Jornada do Assinante (0–90 dias)
+1. **Dia 0–1 (ativação)**: onboarding + diagnóstico rápido + “primeira vitória” em 30–60min.
+2. **Semana 1 (fundação)**: trilha iniciante + checklist/roteiro + desafio simples com feedback.
+3. **Semanas 2–4 (rotina)**: conteúdo curto recorrente + live semanal/quinzenal + plano de prática.
+4. **Dias 30–90 (progresso)**: trilhas por nível + projetos/casos + certificação/selos de conclusão.
 
 ### Objetivos de Negócio
 - **Receita Recorrente Previsível**: Contratos anuais garantem fluxo de caixa estável
 - **Baixa Barreira de Entrada**: Mensalidade acessível para maximizar conversão
 - **Engajamento Diário**: Conteúdo frequente aumenta retenção e valor percebido
 - **Funil de Vendas**: Base de clientes engajados para produtos premium
+- **Eficiência de Conversão**: Oferta clara, onboarding guiado e prova de valor rápida (primeiros 7 dias)
 
 ---
 
@@ -144,16 +161,21 @@ Plano Anual Único
 Básico (R$ 47/mês ou R$ 497/ano)
 ├── Acesso ao catálogo de vídeos
 ├── Comunidade
-└── 1 live/mês
+└── 1 live/mês (Q&A)
 
-Premium (R$ 97/mês ou R$ 997/ano)
+Premium (R$ 79,90/mês ou R$ 797/ano)
 ├── Tudo do Básico
+├── Lives recorrentes (semanal/quinzenal) + replay
+├── Trilhas “do zero” e por nível
+├── Acesso antecipado / drops semanais
 ├── Downloads offline
-├── Acesso antecipado
-├── Q&A mensal com expert
 ├── Descontos no marketplace
 └── Certificados de conclusão
 ```
+
+**Nota de benchmark (aplicação prática, não cópia)**:
+- Testar **preço “psicológico” com centavos** no mensal (ex.: `R$ 79,90`) tende a reduzir resistência sem mexer no posicionamento.
+- “Vagas limitadas” pode ser usado como **escassez operacional real** (capacidade de suporte/lives) em aberturas periódicas.
 
 ### 4.2 Estratégias de Conversão
 
@@ -237,6 +259,7 @@ Escalável (2000+):
 - [ ] Lista de conteúdos (feed)
 - [ ] Perfil do usuário
 - [ ] Painel admin básico (upload vídeos)
+- [ ] Biblioteca de replays (lives gravadas)
 
 #### Importantes - Semana 3-4
 - [ ] Busca e filtros
@@ -245,6 +268,9 @@ Escalável (2000+):
 - [ ] Notificações (email) de novo conteúdo
 - [ ] FAQ/Suporte
 - [ ] Analytics básico
+- [ ] Capítulos/timestamps + velocidade de reprodução
+- [ ] Materiais anexos por aula (PDF, templates)
+- [ ] Trilha “iniciante” com checklist e sequenciamento
 
 #### Nice-to-Have - Fase 2
 - [ ] Comunidade/comentários
@@ -253,6 +279,9 @@ Escalável (2000+):
 - [ ] App mobile (React Native)
 - [ ] Download offline
 - [ ] Lives integradas
+- [ ] Transcrição/legendas (acessibilidade + SEO interno)
+- [ ] Gamificação leve (streak, selos, desafios)
+- [ ] Notificações push (mobile) e lembretes de live
 
 ---
 
@@ -262,11 +291,24 @@ Escalável (2000+):
 
 #### Ritmo Sustentável
 ```
-Segunda-Terça: Aula técnica (15-30min)
-Quarta: Bastidores/processo (10-15min)
-Quinta: Q&A/dúvidas comuns (20min)
+Segunda-Terça: Aula técnica (10-25min)
+Quarta: Bastidores/processo (8-15min)
+Quinta: Q&A/dúvidas comuns (20-40min) (ao vivo quando possível)
 Sexta: Caso de sucesso/aplicação prática (15min)
 Sábado: Conteúdo bônus/aprofundamento (opcional)
+```
+
+#### Treinos ao vivo + replays (ritual de comunidade)
+```
+1 live/semana (ou quinzenal) com pauta clara:
+├── Q&A + correções ao vivo
+├── análise de casos enviados
+└── mini-aula “destravadora” (15-20min)
+
+Replays:
+├── publicados em até 24h
+├── resumidos (tópicos + timestamps)
+└── categorizados por tema e nível
 ```
 
 #### Produção em Lote
@@ -295,9 +337,14 @@ Custo de Produção:
    - Behind the scenes
 
 3. **Interativo** (10%)
-   - Q&A ao vivo mensalmente
+   - Q&A ao vivo recorrente (semanal/quinzenal)
    - Análise de casos enviados
    - Desafios/exercícios
+
+### 6.3 Conteúdo “para iniciante” (reduz churn cedo)
+- Trilha “Do Zero”: 5–7 aulas curtas + checklist + primeira prática guiada
+- Diagnóstico/quiz inicial para direcionar conteúdo (nível, objetivos, contexto)
+- Aula “erros comuns” + plano de 7 dias (quick win)
 
 ---
 
