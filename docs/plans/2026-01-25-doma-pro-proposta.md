@@ -121,7 +121,41 @@ Ao completar a trilha, o membro recebe o **Certificado de Domador pelo Método A
 - ✓ Para quem busca **método e técnicas**, não improviso
 - ✓ Para quem quer **entender o cavalo antes de exigir dele**
 
-### Promessa (SMART)
+### O Problema Real
+
+**"O cavalo não tem problema. O problema é não saber o que fazer com ele."**
+
+A maioria das pessoas que trabalha com cavalo aprendeu olhando, imitando, na tentativa e erro. Funciona até certo ponto. Mas chega uma hora que:
+
+| O que acontece | O custo real |
+|----------------|--------------|
+| O cavalo trava e você não sabe por quê | Semanas perdidas refazendo trabalho |
+| Você pula etapa sem perceber | Cavalo que trava, empaca ou resiste lá na frente |
+| Aplica pressão na hora errada | Cavalo defensivo, tenso, difícil de corrigir |
+| Não tem com quem tirar dúvida | Insegurança se está fazendo certo |
+| Cada cavalo parece um problema novo | Falta de método = resultado inconsistente |
+
+**O preço de errar na doma:**
+- Cavalo mal trabalhado vale menos no mercado
+- Tempo investido jogado fora
+- Reputação comprometida
+- Risco de acidente por falta de base
+
+**A verdade que ninguém fala:** não é falta de talento. É falta de método. Quem tem sequência clara, sabe o porquê de cada etapa e tem orientação quando trava, chega em resultados consistentes.
+
+### A Solução: Método + Acompanhamento
+
+| O Problema | Como o Doma Pro Resolve |
+|------------|------------------------|
+| Aprendeu olhando, sem fundamento | Trilha estruturada com o porquê de cada etapa |
+| Não sabe onde está errando | André no grupo respondendo dúvidas reais |
+| Cavalo travou e não sabe o que fazer | 3 vídeos novos por semana com casos práticos |
+| Se sente sozinho no processo | Comunidade de domadores que vivem a mesma coisa |
+| Resultado inconsistente | Método testado em +2.500 alunos formados |
+
+**"Doma Pro não te ensina só o que fazer. Te ensina o porquê de cada etapa, antes de exigir qualquer coisa do animal."**
+
+### Promessa
 
 **"Domine cada etapa da doma com método, do chão à sela, com acompanhamento contínuo."**
 
