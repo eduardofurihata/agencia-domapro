@@ -77,6 +77,16 @@ O Doma Pro é a **porta de entrada** do ecossistema. Estrutura futura:
 - Demonstrações ao vivo
 - Convidados especiais
 
+### Certificado de Conclusão
+Ao completar todo o curso, o membro recebe o **Certificado de Domador pelo Método André**.
+
+**Requisito:** Completar todas as etapas do curso Domador de Sucesso
+
+**Benefícios do certificado:**
+- Prova social ("Sou Domador Certificado pelo Método André")
+- Diferencial no mercado de trabalho para domadores profissionais
+- Reconhecimento da dedicação e aprendizado
+
 ---
 
 ## 3. Proposta de Valor
@@ -132,13 +142,14 @@ Doma sem método vira afobação: cavalo tenso, resistência, acidentes e frustr
 | 144 vídeos novos por ano (3/semana) | R$ 997 |
 | Acesso ao grupo fechado com o André | R$ 497 |
 | Lives exclusivas e plantões de dúvidas | R$ 297 |
-| **Valor total** | **R$ 2.288** |
+| Certificado de Conclusão | R$ 197 |
+| **Valor total** | **R$ 2.485** |
 
 ### Preço Doma Pro
 
 | | |
 |--|--|
-| ~~De R$ 2.288~~ | Ancoragem |
+| ~~De R$ 2.485~~ | Ancoragem |
 | **Por R$ 597/ano** | Preço real |
 | **12x de R$ 49,75** | Parcelado |
 | **R$ 1,64/dia** | Menos que um café |
@@ -207,6 +218,7 @@ Pode até conseguir, mas em quanto tempo? Com quantos erros? O Doma Pro encurta 
 - 3 vídeos novos por semana
 - Grupo fechado no WhatsApp
 - Lives exclusivas
+- Certificado de conclusão
 - Cards com ícones + descrição curta
 
 ### 6. Seção "Quem é o André"
@@ -219,7 +231,7 @@ Pode até conseguir, mas em quanto tempo? Com quantos erros? O Doma Pro encurta 
 - Resultados reais
 
 ### 8. Seção "Oferta"
-- Ancoragem (~~R$ 2.288~~)
+- Ancoragem (~~R$ 2.585~~)
 - Preço real: R$ 597/ano ou 12x R$ 49,75
 - Garantia 7 dias
 - CTA forte
@@ -281,11 +293,11 @@ Pode até conseguir, mas em quanto tempo? Com quantos erros? O Doma Pro encurta 
 | **Preço** | R$ 597/ano (12x R$ 49,75) |
 | **Plataforma** | Astron Members |
 | **Conteúdo inicial** | Curso Domador de Sucesso (29 aulas) |
-| **Conteúdo recorrente** | 3 vídeos/semana + lives + grupo WhatsApp |
+| **Conteúdo recorrente** | 3 vídeos/semana + lives + grupo WhatsApp + certificado |
 | **Garantia** | 7 dias incondicional |
 | **Meta inicial** | ~1.675 assinantes = R$ 1M/ano |
 | **Posição na esteira** | Produto de entrada - porta para upsells futuros |
 
 ---
 
-*Documento gerado em 25/01/2026*
+*Documento gerado em 25/01/2026 | Atualizado em 25/01/2026*
