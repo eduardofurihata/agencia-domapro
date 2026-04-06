@@ -1,9 +1,10 @@
 # Copys WhatsApp - Lançamento Doma Pro (Abril 2026)
 
 > Mensagens prontas para colar no grupo de WhatsApp.
-> **Carrinho aberto:** Segunda 06/04 a Quarta 08/04
-> **Cupom:** ALUNO → R$ 51,40/mês (depois volta R$ 61,74/mês)
-> **Substituir:** [LINK] pelo link de checkout antes de enviar
+**Carrinho aberto:** Segunda 06/04 a Quarta 08/04
+**Cupom:** ALUNO → R$ 51,40/mês (depois volta R$ 61,74/mês)
+**Substituir:** [LINK] pelo link de checkout antes de enviar
+> 
 
 ---
 
@@ -18,7 +19,7 @@ Fala primos! Bom dia 🐴
 
 Hoje é um dia especial pra mim.
 
-Depois de mais de 2.500 alunos formados no presencial, eu juntei tudo o que sei sobre doma num lugar só.
+Depois de mais de 2.500 alunos formados, eu juntei tudo o que sei sobre doma num lugar só.
 
 Nasceu o *Doma Pro*.
 
@@ -36,7 +37,7 @@ E pra quem entrar até *quarta-feira*, tem o cupom *ALUNO* — são *R$ 100 de d
 Depois de quarta o cupom sai do ar e volta pro valor normal de R$ 61,74.
 
 Quem quiser entrar, é por aqui:
-👉 [LINK]
+👉 https://chk.eduzz.com/VWGN1YPO07
 
 Use o cupom *ALUNO* na hora do pagamento.
 
@@ -48,13 +49,13 @@ Domador André Pedroso
 ### 12h00 — REFORÇO
 
 ```
-Primos, vou detalhar melhor o que vem dentro do Doma Pro pra quem ficou curioso de manhã.
+Primos, vou detalhar melhor o que vem dentro do Doma Pro pra quem ficou com dúvidas de manhã.
 
 *1. Grupo fechado comigo no WhatsApp*
 Não é assistente. Não é moderador. Sou eu, Domador André Pedroso, respondendo dúvida e acompanhando vocês. Mais uma comunidade inteira de domadores de todo o Brasil trocando experiência.
 
 *2. 3 vídeos novos por semana*
-São 12 por mês. Pílulas práticas — dessensibilização, correção de erro, caso real, técnica específica. Conteúdo novo toda semana enquanto você for assinante.
+São 12 por mês. aulas práticas — dessensibilização, correção de erro, caso real, técnica específica. Conteúdo novo toda semana enquanto você for assinante.
 
 *3. Lives só pra assinantes*
 Plantão de dúvida comigo ao vivo. Às vezes trago convidado — ferrador, veterinário, treinador. É eu no seu bolso.
@@ -64,7 +65,7 @@ Começa pelos Fundamentos da Doma: da apresentação até casqueamento e ferrage
 
 Tudo isso com *R$ 100 de desconto* usando o cupom *ALUNO* — sai por *R$ 51,40/mês*. Dá R$ 1,71 por dia.
 
-👉 [LINK]
+👉 https://chk.eduzz.com/VWGN1YPO07
 Cupom: *ALUNO* (válido até quarta)
 ```
 
@@ -75,7 +76,7 @@ Cupom: *ALUNO* (válido até quarta)
 ```
 Primos, sei que alguns de vocês estão pensando:
 
-"André, mas tem tanta coisa no YouTube de graça..."
+"Primo, mas tem tanta coisa no YouTube de graça..."
 
 Tem mesmo. Eu mesmo posto lá. Mas deixa eu te falar uma coisa com honestidade:
 
@@ -89,7 +90,7 @@ Se você trabalha com cavalo e quer fazer isso com segurança e resultado consis
 
 *R$ 51,40/mês com o cupom ALUNO* — só até quarta.
 
-👉 [LINK]
+👉 https://chk.eduzz.com/VWGN1YPO07
 ```
 
 ---
@@ -101,7 +102,7 @@ Primos, pra fechar o dia eu quero ser sincero com vocês.
 
 Eu criei o Doma Pro por um motivo simples: eu não queria que meus alunos ficassem sozinhos depois que saíssem do curso.
 
-Muitos me mandavam mensagem: "André, o cavalo travou e não sei o que fazer." "André, acertei a dessensibilização mas na hora da sela o bicho voltou atrás."
+Muitos me mandavam mensagem: "Primo, o cavalo travou e não sei o que fazer." "Primo, acertei a dessensibilização mas na hora da sela o bicho voltou atrás."
 
 E eu respondia um por um. Mas eu sou um só.
 
@@ -111,7 +112,7 @@ Você nunca mais fica sozinho com seu cavalo.
 
 Se faz sentido pra você, o cupom *ALUNO* tá valendo até quarta — *R$ 51,40/mês*.
 
-👉 [LINK]
+👉 https://chk.eduzz.com/VWGN1YPO07
 
 Boa noite, primos.
 
@@ -145,7 +146,7 @@ Esse tipo de conteúdo sai toda semana no Doma Pro — só que lá é vídeo, co
 
 Quem quiser entrar ainda tá dando tempo com o cupom *ALUNO* — *R$ 51,40/mês*. Mas é só até amanhã.
 
-👉 [LINK]
+👉 https://chk.eduzz.com/VWGN1YPO07
 ```
 
 ---
@@ -163,7 +164,7 @@ Quem entrou ontem e hoje já tá no grupo, já tá recebendo material.
 
 Se você ficou na dúvida, pensa assim: são *R$ 1,71 por dia*. Menos que uma água no posto.
 
-👉 [LINK]
+👉 https://chk.eduzz.com/VWGN1YPO07
 Cupom: *ALUNO*
 
 Domador André Pedroso
@@ -194,7 +195,7 @@ Resumo rápido do que você recebe:
 
 Amanhã volta pra R$ 61,74.
 
-👉 [LINK]
+👉 https://chk.eduzz.com/VWGN1YPO07
 Cupom: *ALUNO*
 ```
 
@@ -215,7 +216,7 @@ Eu passei anos respondendo aluno um por um. O Doma Pro é esse acompanhamento or
 
 Hoje é o último dia com o cupom *ALUNO* — *R$ 51,40/mês*.
 
-👉 [LINK]
+👉 https://chk.eduzz.com/VWGN1YPO07
 ```
 
 ---
@@ -240,7 +241,7 @@ Amanhã, sem cupom, é R$ 61,74/mês.
 
 Se faz sentido pra você, é agora.
 
-👉 [LINK]
+👉 https://chk.eduzz.com/VWGN1YPO07
 Cupom: *ALUNO*
 ```
 
@@ -253,7 +254,7 @@ Primos, é a última mensagem que eu mando sobre isso.
 
 O cupom ALUNO sai do ar hoje. Amanhã o Doma Pro continua aberto, mas no valor normal de R$ 61,74/mês.
 
-Eu não vou ficar insistindo. Quem me conhece sabe que eu não sou assim.
+Seja um Assinante Oro, e não perca essa oportunidade
 
 Mas eu sei o que é trabalhar com cavalo sozinho, sem ter pra quem perguntar quando o bicho trava. Sem saber se tá no caminho certo. Repetindo erro sem perceber.
 
@@ -261,7 +262,7 @@ O Doma Pro existe pra isso não acontecer mais.
 
 Se faz sentido pra você, entra. Se não faz, tudo bem. A gente segue junto aqui no grupo do mesmo jeito.
 
-👉 [LINK]
+👉 https://chk.eduzz.com/VWGN1YPO07
 Cupom: *ALUNO* (última noite)
 
 Valeu demais, primos.
