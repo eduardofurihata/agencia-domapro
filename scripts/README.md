@@ -17,12 +17,12 @@ Mental model: igual `git push/pull`, mas pra Notion.
 
 ```bash
 make help                              # lista comandos
-make dev:notion-push                   # docs → Notion (default)
-make dev:notion-pull                   # Notion → docs
-make dev:notion-status                 # diff dry-run em ambos sentidos
+make dev:push                   # docs → Notion (default)
+make dev:pull                   # Notion → docs
+make dev:status                 # diff dry-run em ambos sentidos
 
-make dev:notion-push SCOPE=docs/marketing/brand   # subpath
-make dev:notion-push FORCE=1                       # ignora detecção de conflito
+make dev:push SCOPE=docs/marketing/brand   # subpath
+make dev:push FORCE=1                       # ignora detecção de conflito
 
 make notion-setup                      # idempotente: instala uv + cria estrutura
 make notion-init URL=https://...       # bootstrap (só primeira vez)
@@ -124,7 +124,7 @@ retoma de onde parou (idempotente).
 **Páginas órfãs / archive cascade**: se uma operação corrompeu a estrutura, o
 caminho mais limpo é nukar a página `docs` no Notion (`curl -X DELETE
 .../blocks/<docs_page_id>`), zerar `.notion-sync.json` (manter só
-`root_page_id` e `local_root`), e rodar `make dev:notion-push` de novo.
+`root_page_id` e `local_root`), e rodar `make dev:push` de novo.
 
 **Quero recomeçar do zero**: apaga `.notion-sync.json` e roda
 `make notion-init URL=...` de novo. Páginas antigas no Notion ficam órfãs (não

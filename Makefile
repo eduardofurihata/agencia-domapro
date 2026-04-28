@@ -6,10 +6,10 @@ NOTION_TOKEN_FILE := $(HOME)/.config/notion-sync/.env
 NOTION_STATE := .notion-sync.json
 NOTION_DEFAULT_SCOPE := docs
 
-# Override scope: make dev:notion-push SCOPE=docs/marketing/brand
+# Override scope: make dev:push SCOPE=docs/marketing/brand
 SCOPE ?= $(NOTION_DEFAULT_SCOPE)
 
-# Sobrescreve mesmo com mudança remota: make dev:notion-push FORCE=1
+# Sobrescreve mesmo com mudança remota: make dev:push FORCE=1
 ifdef FORCE
 FORCE_FLAG := --force
 else
@@ -23,7 +23,7 @@ NOTION_PATH := PATH="$(HOME)/.local/bin:$$PATH"
         ensure-uv ensure-token-file ensure-init \
         notion-setup notion-check \
         notion-init \
-        dev\:notion-push dev\:notion-pull dev\:notion-status \
+        dev\:push dev\:pull dev\:status \
         notion-push notion-pull notion-status
 
 help: ## Lista comandos
@@ -33,9 +33,9 @@ help: ## Lista comandos
 	  "notion-setup"       "Instala uv (se faltar) e cria estrutura de config" \
 	  "notion-check"       "Verifica ambiente sem aplicar nada" \
 	  "notion-init URL=…"  "Bootstrap: define raiz do Notion" \
-	  "dev:notion-push"    "Envia local → Notion (default: docs/)" \
-	  "dev:notion-pull"    "Traz Notion → local (default: docs/)" \
-	  "dev:notion-status"  "Diff dry-run em ambos sentidos (default: docs/)"
+	  "dev:push"           "Envia local → Notion (default: docs/)" \
+	  "dev:pull"           "Traz Notion → local (default: docs/)" \
+	  "dev:status"         "Diff dry-run em ambos sentidos (default: docs/)"
 	@printf "\nVariáveis úteis:\n"
 	@printf "  SCOPE=docs/foo            limita push/pull a um subpath\n"
 	@printf "  FORCE=1                   ignora detecção de conflito\n\n"
@@ -100,16 +100,16 @@ endif
 
 # ─── operações principais ────────────────────────────────────────────
 
-dev\:notion-push: notion-check ## Envia local → Notion (default: docs/)
+dev\:push: notion-check ## Envia local → Notion (default: docs/)
 	@$(NOTION_PATH) $(NOTION_SCRIPT) push $(SCOPE) $(FORCE_FLAG)
 
-dev\:notion-pull: notion-check ## Traz Notion → local (default: docs/)
+dev\:pull: notion-check ## Traz Notion → local (default: docs/)
 	@$(NOTION_PATH) $(NOTION_SCRIPT) pull $(SCOPE) $(FORCE_FLAG)
 
-dev\:notion-status: notion-check ## Diff dry-run em ambos sentidos (default: docs/)
+dev\:status: notion-check ## Diff dry-run em ambos sentidos (default: docs/)
 	@$(NOTION_PATH) $(NOTION_SCRIPT) status $(SCOPE)
 
 # Aliases sem o "dev:" pra quem prefere
-notion-push: dev\:notion-push
-notion-pull: dev\:notion-pull
-notion-status: dev\:notion-status
+notion-push: dev\:push
+notion-pull: dev\:pull
+notion-status: dev\:status

@@ -22,7 +22,7 @@
       "type": "readme",
       "local_hash": "a64b90b7753c64e6f83725c241ef16e94fe89356736b184952ce4ca2d7f889cd",
       "notion_last_edited_time": "2026-04-28T00:29:00.000Z",
-      "last_synced": "2026-04-28T00:48:55.048458+00:00"
+      "last_synced": "2026-04-28T01:00:22.001261+00:00"
     },
     "docs/derivados/briefings": {
       "page_id": "350bccbb-29bb-81fb-be6b-dca8cf7cfaf9",
@@ -36,7 +36,7 @@
       "type": "file",
       "local_hash": "04dc440df496c62b215770539943f16eabc6c2d0afba1e69b279c0e186ac376a",
       "notion_last_edited_time": "2026-04-28T00:29:00.000Z",
-      "last_synced": "2026-04-28T00:48:56.421952+00:00"
+      "last_synced": "2026-04-28T01:00:23.763062+00:00"
     },
     "docs/derivados/marketing-cursos": {
       "page_id": "350bccbb-29bb-81f8-b6e5-ef3a799afb24",
@@ -50,35 +50,35 @@
       "type": "readme",
       "local_hash": "d2fe3bbdb35a7dc8553df959be9bc9d64d5ca7b2c77b7b33daab42687cfabd85",
       "notion_last_edited_time": "2026-04-28T00:29:00.000Z",
-      "last_synced": "2026-04-28T00:48:57.548097+00:00"
+      "last_synced": "2026-04-28T01:00:29.128789+00:00"
     },
     "docs/derivados/marketing-cursos/casqueamento_e_ferrageamento.marketing.md": {
       "page_id": "350bccbb-29bb-814e-9421-dc129051de40",
       "type": "file",
       "local_hash": "08d4e9105445bfc969f5781ce3e21827336d312fd57cf9333a01deef87a544c3",
       "notion_last_edited_time": "2026-04-28T00:29:00.000Z",
-      "last_synced": "2026-04-28T00:48:58.367354+00:00"
+      "last_synced": "2026-04-28T01:00:30.499949+00:00"
     },
     "docs/derivados/marketing-cursos/domador_de_sucesso.marketing.md": {
       "page_id": "350bccbb-29bb-813b-85d2-d0d944fa9234",
       "type": "file",
       "local_hash": "1fcf75e4914356efa67d7f4a2dfef535ed145b326a170568821aea054e347a77",
       "notion_last_edited_time": "2026-04-28T00:29:00.000Z",
-      "last_synced": "2026-04-28T00:48:59.185797+00:00"
+      "last_synced": "2026-04-28T01:00:31.601865+00:00"
     },
     "docs/derivados/marketing-cursos/rancho_de_sucesso.marketing.md": {
       "page_id": "350bccbb-29bb-816a-a75f-d1d97190bc30",
       "type": "file",
       "local_hash": "f2fcc6c76780ee29ebed2bc149a222ead7807a83501cca794bf21b8ace607bfa",
       "notion_last_edited_time": "2026-04-28T00:29:00.000Z",
-      "last_synced": "2026-04-28T00:48:59.907976+00:00"
+      "last_synced": "2026-04-28T01:00:32.439854+00:00"
     },
     "docs/derivados/marketing-cursos/trato_e_manejo.marketing.md": {
       "page_id": "350bccbb-29bb-81b1-8e9c-d6d5371dec06",
       "type": "file",
       "local_hash": "0ecc7bc71d2ed9f5ed08de5d8b02b7c76b8ce49b9028e9cd7e586a0ac361b957",
       "notion_last_edited_time": "2026-04-28T00:29:00.000Z",
-      "last_synced": "2026-04-28T00:49:00.722653+00:00"
+      "last_synced": "2026-04-28T01:00:34.084634+00:00"
     },
     "docs/derivados/resumos": {
       "page_id": "350bccbb-29bb-8197-b468-c9e9e1a90c39",
@@ -92,42 +92,42 @@
       "type": "readme",
       "local_hash": "3b39750962b32c32296b86ab60de03c1d3102f7b18b914792fcf4148970a6e62",
       "notion_last_edited_time": "2026-04-28T00:30:00.000Z",
-      "last_synced": "2026-04-28T00:49:02.054146+00:00"
+      "last_synced": "2026-04-28T01:00:35.611894+00:00"
     },
     "docs/derivados/resumos/casqueamento_e_ferrageamento.resumo.md": {
       "page_id": "350bccbb-29bb-813a-91b8-ca8695a17f95",
       "type": "file",
       "local_hash": "1ba5921622cba101df5237ce48113c2df45f02f51f1ff5c748a13a36607e4a4a",
       "notion_last_edited_time": "2026-04-28T00:29:00.000Z",
-      "last_synced": "2026-04-28T00:49:03.869012+00:00"
+      "last_synced": "2026-04-28T01:00:37.770541+00:00"
     },
     "docs/derivados/resumos/domador_de_sucesso.resumo.md": {
       "page_id": "350bccbb-29bb-815b-87fd-e2d9314b09e2",
       "type": "file",
       "local_hash": "b3732fcdf9da24676587292d0af01f37fbaae63824481f466d7ba7f2c6e9ffd3",
       "notion_last_edited_time": "2026-04-28T00:29:00.000Z",
-      "last_synced": "2026-04-28T00:49:06.252533+00:00"
+      "last_synced": "2026-04-28T01:00:40.023688+00:00"
     },
     "docs/derivados/resumos/rancho_de_sucesso.resumo.md": {
       "page_id": "350bccbb-29bb-81a4-9bdf-e9a613589f89",
       "type": "file",
       "local_hash": "0737bd03a2d2413cd5bcf3817cb1f4adb15ae743c4293993c01cc988504078b3",
       "notion_last_edited_time": "2026-04-28T00:29:00.000Z",
-      "last_synced": "2026-04-28T00:49:07.686190+00:00"
+      "last_synced": "2026-04-28T01:00:41.457507+00:00"
     },
     "docs/derivados/resumos/resumo_cursos.md": {
       "page_id": "350bccbb-29bb-81b3-bf3a-db2ffa0b4f81",
       "type": "file",
       "local_hash": "b69a7d420cc6532b943e87cad9e51ca7f355099ad665864d050241ab6568e967",
       "notion_last_edited_time": "2026-04-28T00:30:00.000Z",
-      "last_synced": "2026-04-28T00:49:21.018409+00:00"
+      "last_synced": "2026-04-28T01:00:49.342472+00:00"
     },
     "docs/derivados/resumos/trato_e_manejo.resumo.md": {
       "page_id": "350bccbb-29bb-81a7-a4d5-fc659b2c6727",
       "type": "file",
       "local_hash": "195f9854edb62b422cc514b12e834a061260ab4e37df12ad0895682f437c1ffb",
       "notion_last_edited_time": "2026-04-28T00:30:00.000Z",
-      "last_synced": "2026-04-28T00:49:22.834989+00:00"
+      "last_synced": "2026-04-28T01:00:50.952531+00:00"
     },
     "docs/eduzz": {
       "page_id": "350bccbb-29bb-8161-8f75-e1f6593e5d33",
@@ -176,14 +176,14 @@
       "type": "file",
       "local_hash": "11d8aed4dc484f050eb8210dde1f05b675369bf0b0732f97cf7e05202f0e0095",
       "notion_last_edited_time": "2026-04-28T00:30:00.000Z",
-      "last_synced": "2026-04-28T00:49:36.372835+00:00"
+      "last_synced": "2026-04-28T01:01:06.672677+00:00"
     },
     "docs/marketing/brand/tom-de-voz.md": {
       "page_id": "350bccbb-29bb-81b0-9fff-e8d6f05c0f28",
       "type": "file",
       "local_hash": "e3dc5da1bef961ef94f25b60dae789fdc84553c7abb405cf93e503b578d662b5",
       "notion_last_edited_time": "2026-04-28T00:30:00.000Z",
-      "last_synced": "2026-04-28T00:49:37.154125+00:00"
+      "last_synced": "2026-04-28T01:01:07.569063+00:00"
     },
     "docs/marketing/campanhas": {
       "page_id": "350bccbb-29bb-8174-a4b0-e06291d824ff",
@@ -232,7 +232,7 @@
       "type": "file",
       "local_hash": "28462816415f34359af87bac86a150156d950c985a5b431971fb925806934e7c",
       "notion_last_edited_time": "2026-04-28T00:30:00.000Z",
-      "last_synced": "2026-04-28T00:49:43.014433+00:00"
+      "last_synced": "2026-04-28T01:01:21.194317+00:00"
     },
     "docs/marketing/campanhas/2026-02-lancamento-doma-pro/conteudos/whatsapp": {
       "page_id": "350bccbb-29bb-8195-920b-d73277507069",
@@ -258,9 +258,9 @@
     "docs/marketing/campanhas/2026-04-27-anuncio/README.md": {
       "page_id": "350bccbb-29bb-814f-b388-e49299015d7e",
       "type": "readme",
-      "local_hash": "f414251a9a7ea31ffa32f2d3e5b69db4b492d91827f28a70c96d81e077623bd6",
-      "notion_last_edited_time": "2026-04-28T00:36:00.000Z",
-      "last_synced": "2026-04-28T00:37:00.225418+00:00"
+      "local_hash": "626259a85a359cd4aa8178aa2b59812a6ea5f77ef0e045f4b6d9808623f51c4c",
+      "notion_last_edited_time": "2026-04-28T00:59:00.000Z",
+      "last_synced": "2026-04-28T01:01:24.502942+00:00"
     },
     "docs/marketing/campanhas/2026-04-27-anuncio/01-pas-cavalo-trava.md": {
       "page_id": "350bccbb-29bb-815c-93a1-dbeeadcbc4aa",
@@ -274,63 +274,63 @@
       "type": "file",
       "local_hash": "38d6fc86bb8f3edf178b00f170c85e7bd8730699254218c76d857d84ef98c132",
       "notion_last_edited_time": "2026-04-28T00:31:00.000Z",
-      "last_synced": "2026-04-28T00:49:49.362760+00:00"
+      "last_synced": "2026-04-28T01:01:26.206148+00:00"
     },
     "docs/marketing/campanhas/2026-04-27-anuncio/03-contrarian-verdade-que-ninguem-conta.md": {
       "page_id": "350bccbb-29bb-8151-b163-e88a45751b2d",
       "type": "file",
       "local_hash": "7eb73b324a154613b3725ef787d1c39a435bdec4d2cf64f5857798fdc359b24a",
       "notion_last_edited_time": "2026-04-28T00:31:00.000Z",
-      "last_synced": "2026-04-28T00:49:49.952235+00:00"
+      "last_synced": "2026-04-28T01:01:26.958862+00:00"
     },
     "docs/marketing/campanhas/2026-04-27-anuncio/04-educational-3-sinais.md": {
       "page_id": "350bccbb-29bb-81cf-8c2b-c686805a32c1",
       "type": "file",
       "local_hash": "5526e89650f25af14fc67b748001ac2e5a88ed4a6a2b65ae14383c4adc3d72b1",
       "notion_last_edited_time": "2026-04-28T00:31:00.000Z",
-      "last_synced": "2026-04-28T00:49:51.451993+00:00"
+      "last_synced": "2026-04-28T01:01:27.580241+00:00"
     },
     "docs/marketing/campanhas/2026-04-27-anuncio/05-listicle-3-erros.md": {
       "page_id": "350bccbb-29bb-81b2-a952-d70e365d3026",
       "type": "file",
       "local_hash": "60b3aadcb3e0ab1ac6002945b208e53abc4964bc6d10c2806e07cc1caaac67cc",
       "notion_last_edited_time": "2026-04-28T00:31:00.000Z",
-      "last_synced": "2026-04-28T00:49:52.128204+00:00"
+      "last_synced": "2026-04-28T01:01:28.356206+00:00"
     },
     "docs/marketing/campanhas/2026-04-27-anuncio/06-qa-pergunta-do-primo.md": {
       "page_id": "350bccbb-29bb-818e-a282-d8443a2b74c0",
       "type": "file",
       "local_hash": "453b0fb8e36ca68190177bfb4bd3cabd2d99cee6eb7d189b81396c5a18eba427",
       "notion_last_edited_time": "2026-04-28T00:31:00.000Z",
-      "last_synced": "2026-04-28T00:49:54.278676+00:00"
+      "last_synced": "2026-04-28T01:01:29.073068+00:00"
     },
     "docs/marketing/campanhas/2026-04-27-anuncio/07-founder-story-por-que-criei.md": {
       "page_id": "350bccbb-29bb-814b-98de-c4673c152632",
       "type": "file",
       "local_hash": "a8d2850f1313682d4df7c06f06e987b39d7cce395fb369633bb9724edf5e2308",
       "notion_last_edited_time": "2026-04-28T00:31:00.000Z",
-      "last_synced": "2026-04-28T00:49:54.904993+00:00"
+      "last_synced": "2026-04-28T01:01:29.698379+00:00"
     },
     "docs/marketing/campanhas/2026-04-27-anuncio/08-comparison-youtube-vs-doma-pro.md": {
       "page_id": "350bccbb-29bb-8143-be41-edda36c5131e",
       "type": "file",
       "local_hash": "96643bb308ca19c75decb2a5466605837f92eadebcdc641c88f3eea8b2354d5e",
       "notion_last_edited_time": "2026-04-28T00:31:00.000Z",
-      "last_synced": "2026-04-28T00:49:55.601483+00:00"
+      "last_synced": "2026-04-28T01:01:30.389521+00:00"
     },
     "docs/marketing/campanhas/2026-04-27-anuncio/09-demonstration-olha-esse-cavalo.md": {
       "page_id": "350bccbb-29bb-81cc-98a1-c4880d132c43",
       "type": "file",
       "local_hash": "746cfd9f68569cc9f7814af9deea0370e15c65a76d817da68153778fa9cf1d48",
       "notion_last_edited_time": "2026-04-28T00:31:00.000Z",
-      "last_synced": "2026-04-28T00:49:56.224483+00:00"
+      "last_synced": "2026-04-28T01:01:31.029250+00:00"
     },
     "docs/marketing/campanhas/2026-04-27-anuncio/10-negative-reverse-nao-e-pra-todo-mundo.md": {
       "page_id": "350bccbb-29bb-818b-a49d-f84b8bb0507a",
       "type": "file",
       "local_hash": "80827d7c8e44a3ea213d6f4ad39a6123fa3e086321107d7eabc0747c0946cf67",
       "notion_last_edited_time": "2026-04-28T00:31:00.000Z",
-      "last_synced": "2026-04-28T00:49:56.940731+00:00"
+      "last_synced": "2026-04-28T01:01:31.626722+00:00"
     },
     "docs/marketing/campanhas/2026-04-lancamento-doma-pro": {
       "page_id": "350bccbb-29bb-810d-a0d6-cd669204f2a6",
@@ -358,7 +358,7 @@
       "type": "file",
       "local_hash": "8fbccb9ed6d6d360fb22775b2a6d507789b2b55d19e7668cda8c9ee91984b19d",
       "notion_last_edited_time": "2026-04-28T00:31:00.000Z",
-      "last_synced": "2026-04-28T00:49:59.603389+00:00"
+      "last_synced": "2026-04-28T01:01:35.012963+00:00"
     },
     "docs/marketing/landing-page": {
       "page_id": "350bccbb-29bb-81fd-8690-e1af6ab0632a",
@@ -407,7 +407,7 @@
       "type": "file",
       "local_hash": "85cc0f651a75fdec62ed32f4b7a1a9a3507cd529bb67eeda22e28e4f8b1448b4",
       "notion_last_edited_time": "2026-04-28T00:31:00.000Z",
-      "last_synced": "2026-04-28T00:50:12.086735+00:00"
+      "last_synced": "2026-04-28T01:01:53.445043+00:00"
     },
     "docs/marketing/templates/roteiro-video.md": {
       "page_id": "350bccbb-29bb-817b-b9a9-e5d62e86aec3",
@@ -435,7 +435,7 @@
       "type": "file",
       "local_hash": "a870eb28efac66fffb5db2274f047e0c4afe63494a47dc2406d51fe00a3896d7",
       "notion_last_edited_time": "2026-04-28T00:32:00.000Z",
-      "last_synced": "2026-04-28T00:50:17.566577+00:00"
+      "last_synced": "2026-04-28T01:02:05.224374+00:00"
     },
     "docs/proposta": {
       "page_id": "350bccbb-29bb-817c-b8fa-fcd81b49896b",
